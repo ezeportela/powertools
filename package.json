@@ -1,0 +1,27 @@
+{
+  "name": "@eportela/powertools",
+  "version": "0.1.2",
+  "description": "A powerful tools library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezeportela/powertools.git"
+  },
+  "keywords": [
+    "powerful",
+    "tools",
+    "library"
+  ],
+  "author": "Ezequiel Portela <eportelab@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezeportela/powertools/issues"
+  },
+  "homepage": "https://github.com/ezeportela/powertools#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
