@@ -1,6 +1,6 @@
-const {mapObject} = require('../utils');
+const {mapObject} = require('../../../utils');
 
-test('mapObject test', () => {
+test('test utils mapObject', () => {
   const ctx = {n1: 1, n2: 2};
   const keys = {
     one: 'ctx.n1',
